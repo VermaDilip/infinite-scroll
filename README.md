@@ -7,6 +7,18 @@ To view the demo: [click here](https://vermadilip.github.io/infinite-scroll/)
 
 ![alt text](image-1.png)
 
+## About This Website
+
+Welcome to the Infinite Scroll Gallery, a modern web application that lets users explore and discover random, high-quality images. Designed with an intuitive user experience in mind, the site offers a seamless scrolling experience, dynamically loading images from Lorem Picsum as you browse.
+
+Key features include:
+
+Infinite Scrolling: New cards automatically load as you scroll down, creating a smooth browsing experience.
+Dark/Light Mode Toggle: Switch between light and dark modes for comfortable viewing, day or night.
+Image Preview & Download: Click on any card to view the image in a pop-up modal with a download option for easy saving.
+Hero Section with CTA: A visually appealing banner at the top invites you to explore the gallery.
+This gallery is perfect for anyone who enjoys discovering random visuals and needs inspiration. The simplicity of the design ensures that you can focus on what matters most—beautiful imagery! Happy scrolling! 🎨
+
 ## Available Scripts
 
 In the project directory, you can run:

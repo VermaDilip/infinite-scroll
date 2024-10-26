@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/infinite-scroll/static/css/main.e3052825.css",
+    "main.js": "/infinite-scroll/static/js/main.fa2b8661.js",
+    "static/js/453.57b1255d.chunk.js": "/infinite-scroll/static/js/453.57b1255d.chunk.js",
+    "index.html": "/infinite-scroll/index.html",
+    "main.e3052825.css.map": "/infinite-scroll/static/css/main.e3052825.css.map",
+    "main.fa2b8661.js.map": "/infinite-scroll/static/js/main.fa2b8661.js.map",
+    "453.57b1255d.chunk.js.map": "/infinite-scroll/static/js/453.57b1255d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3052825.css",
+    "static/js/main.fa2b8661.js"
+  ]
+}

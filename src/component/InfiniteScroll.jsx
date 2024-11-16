@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import SkeletonLoader from './SkeletonLoader';
 
 
 const InfiniteScroll = () => {
@@ -89,7 +90,12 @@ const InfiniteScroll = () => {
       </header>
 
       {loading ? (
-        <div className="loader"></div>
+        // <div className="loader"></div>
+        <div className="card-container">
+          {Array.from({ length: 10 }).map((_, index) => (
+            <SkeletonLoader key={index} />
+          ))}
+        </div>
       ) : (
         <div className="card-container">
           {cards.slice(0, visibleCards).map((card) => (
